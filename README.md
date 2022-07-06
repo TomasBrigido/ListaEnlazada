@@ -1,4 +1,4 @@
 # ListaEnlazada-
 Aplicacion de listas enlazada en C++ 
 primer parcial 2022.pdf
-<img src="primer parcial 2022.png" alt="enunciado">
+<img src="encunciado1/img1.jpg" alt="enunciado">
